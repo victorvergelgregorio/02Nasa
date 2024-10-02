@@ -1,1 +1,4 @@
 Información final que sí quiero que permanezca en el tiempo
+
+Información añadida dentro del fichero.
+
